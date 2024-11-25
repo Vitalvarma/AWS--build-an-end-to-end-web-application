@@ -25,6 +25,8 @@
 4. Replace the code with the content from the Git text document.
 5. We will deploy and test the code later.
 
+![IMG-20241125-WA0003](https://github.com/user-attachments/assets/5b302b46-ecdd-45e1-aa16-4c4c3eb75bda)
+
 ### Step 3: API Gateway
 1. Navigate to API Gateway from the Management Console.
 2. Select "Create REST API."
