@@ -34,6 +34,8 @@
 4. Enable CORS since we are connecting Amplify with the Lambda function, which are on different domains.
 5. Save the API invoke URL for later use.
 
+![IMG-20241125-WA0006](https://github.com/user-attachments/assets/46208b4d-26bf-4057-82a4-6c4486173dc7)
+
 ### Step 4: DynamoDB
 1. Create a table.
 2. Add a partition key as `ID`.
