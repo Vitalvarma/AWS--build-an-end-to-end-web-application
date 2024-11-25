@@ -16,6 +16,8 @@
 4. Drag and drop the ZIP file and click on the "Save and Deploy" button.
 5. Refresh the page.
 
+![IMG-20241125-WA0002](https://github.com/user-attachments/assets/51d562e3-86ac-4d66-b045-7eee985a2a64)
+
 ### Step 2: Lambda Function
 1. Navigate to Lambda from the Management Console.
 2. Click on the options for your concern.
