@@ -48,6 +48,8 @@
 2. Add a policy and include the code from my GitHub repository for the text document execution role policy JSON.
 3. Change the table name to match your table name.
 
+![IMG-20241125-WA0007](https://github.com/user-attachments/assets/66abd95e-52a9-4620-8ac9-c0f06c842cb0)
+
 ### Step 6: Lambda Function Code
 1. Deploy and test the code.
 2. You should see the result in the DynamoDB table.
