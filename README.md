@@ -41,6 +41,8 @@
 2. Add a partition key as `ID`.
 3. Save the ARN URL for later use.
 
+![IMG-20241125-WA0005](https://github.com/user-attachments/assets/a360ad02-28ec-4c68-9578-adcbc6ece4dd)
+
 ### Step 5: IAM for Lambda Function
 1. Create a role.
 2. Add a policy and include the code from my GitHub repository for the text document execution role policy JSON.
