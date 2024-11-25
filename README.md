@@ -7,6 +7,8 @@
 - Amazon DynamoDB
 - AWS IAM
 
+![IMG-20241125-WA0004](https://github.com/user-attachments/assets/7dd3200a-e201-4e43-b943-4a4f7575e785)
+
 ### Step 1: Amplify
 1. Create a ZIP file of `index.html` that I have already prepared in the repository.
 2. Create an app in Amplify.
