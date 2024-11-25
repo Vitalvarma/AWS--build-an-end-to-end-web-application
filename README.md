@@ -57,3 +57,6 @@
 ### Step 7: Connect Amplify and API Gateway
 1. Replace the API invoke URL and ARN.
 2. Continue deploying.
+
+![IMG-20241125-WA0007](https://github.com/user-attachments/assets/66abd95e-52a9-4620-8ac9-c0f06c842cb0)
+
